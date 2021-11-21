@@ -38,7 +38,7 @@ void buble_sort(vector<int> &a, int left, int right) {
 }
 
 int main() {
-    vector<int> a = { 9, 6, 4, 5, 2, 7, 1, 3 };
+    vector<int> a = { 9, 6, 4, 5, 2, 7, 1, 3, 0 };
 
     // insertion_sort(a, 1, a.size() - 2);
     // selection_sort(a, 1, a.size() - 2);

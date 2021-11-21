@@ -30,7 +30,7 @@ public:
         } 
         return res;
     }
-
+    
     vector<int> mergeSort(vector<int> a, int left, int right) {
         // divide
         if (left > right) return {};
